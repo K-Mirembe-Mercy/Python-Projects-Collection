@@ -7,7 +7,7 @@ Your goal is to pop as many balloons as possible before they escape!
 
 🖼️ Screenshot
 
-"Game Screenshot" (screenshot.png)
+"Game Screenshot" ()
 
 ---
 
