@@ -5,7 +5,7 @@ This repo contains a variety of beginner-to-intermediate projects, experiments, 
 
 ---
 
-📌 Overview
+Overview
 
 This collection showcases my growth as a developer through hands-on coding. Each project focuses on different programming concepts, including:
 
