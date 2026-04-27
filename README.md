@@ -93,13 +93,9 @@ These projects demonstrate my skills in problem-solving, algorithms, and Python 
 Suggestions, improvements, and feedback are welcome!
 Feel free to open an issue or submit a pull request.
 
----
-
 👩‍💻 Author
 
 K-Mirembe-Mercy
-
----
 
 ⭐ Support
 
