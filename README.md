@@ -95,7 +95,7 @@ Feel free to open an issue or submit a pull request.
 
 👩‍💻 Author
 
-K-Mirembe-Mercy
+K-Mirembe-Mercy 💯
 
 ⭐ Support
 
